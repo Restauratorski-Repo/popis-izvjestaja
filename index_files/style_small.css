@@ -25,10 +25,7 @@ h2 {
   font-size: 20px; }
 
 .custom-table {
-  min-width: 900px;
-  display: block;
-  overflow-y: auto;
-  max-height: 300px;}
+  min-width: 900px;}
 .custom-table thead tr, .custom-table thead th {
   border-top: none;
   border-bottom: none !important; }
