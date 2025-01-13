@@ -27,7 +27,7 @@ h2 {
 .scrollable {
   display: block;
   overflow-y: auto;
-  max-height: 300px;}
+  max-height: 30px;}
 
 .custom-table {
   min-width: 900px;}
